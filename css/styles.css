@@ -364,7 +364,7 @@ img {
 
 .checkbox:checked + .check-label > .check-icon {
     background-color: var(--accent-color);
-    border: transperent;
+    border: transparent;
 }
 .conditions{
     color: var(--accent-color);
@@ -720,7 +720,7 @@ img {
 }
 .footer-place{
     display: flex;
-    align-items: baseline;
+    align-items: center;
 }
 
 .form-heading {
